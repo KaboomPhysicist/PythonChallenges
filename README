@@ -1,2 +1,3 @@
-This is a little program for generating N contiguous circles. This is a solution for a programming challenge (exactly, Python Challenges) given by a Professor from my university.
-This solution is given in Julia and Python. It's just a 'training' script for learning Julia.
+This is a repository for all the scripts I make for the solution of some Problems given by a Professor from my university. These problems are intended to be solved in Python, but some of the files are an export to Julia because I want to learn Julia.
+
+Feel free to explore the repository and use it as you want.
